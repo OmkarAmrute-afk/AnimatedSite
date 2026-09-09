@@ -2,4 +2,4 @@
 a demo website with scrollable animations
 https://horizon-beyond-imagination-omkar.netlify.app/
 <br>
-author - Omkar Amrute
+author - Omkar Amrute.
